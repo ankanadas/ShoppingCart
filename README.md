@@ -1,7 +1,7 @@
 Shopping Cart with React
 
 FlowChart of Application
-![](src/FlowChartShoppingCartApp.png)
+![](src/FlowChart.png)
 
 1. Home Page -> add product to cart, remove from cart
 
